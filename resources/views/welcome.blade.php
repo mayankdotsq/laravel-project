@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel-fourth commit</title>
+        <title>Laravel-Build Deployment</title>
 
         <!-- Fonts -->
         <link rel="preconnect" href="https://fonts.bunny.net">
